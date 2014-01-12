@@ -1,0 +1,10 @@
+{
+  "name": "scrollzip",
+  "_cacheHeaders": {
+    "Content-Type": "application/zip",
+    "Content-Disposition": "attachment; filename=scrollzip-master.zip"
+  },
+  "_source": "https://github.com/tinywall/scrollzip/archive/master.zip",
+  "_target": "*",
+  "_originalSource": "https://github.com/tinywall/scrollzip/archive/master.zip"
+}

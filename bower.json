@@ -1,0 +1,12 @@
+{
+  "name": "audioscroll",
+  "version": "0.1.0",
+  "dependencies": {
+    "handlebars": "1.1.2",
+    "underscore": "1.5.2",
+    "Swiper": "http://github.com/nolimits4web/Swiper/archive/master.zip",
+    "scrollzip":"https://github.com/tinywall/scrollzip/archive/master.zip",
+    "font-awesome": "4.0.3",
+    "howler":"1.1.16"
+  }
+}
